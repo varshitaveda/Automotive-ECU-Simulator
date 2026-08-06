@@ -1,0 +1,4 @@
+../Drivers/VEHICLE/vehicle.c:14:9:Vehicle_GetTemperature	1
+../Drivers/VEHICLE/vehicle.c:21:10:Vehicle_GetSpeed	1
+../Drivers/VEHICLE/vehicle.c:27:9:Vehicle_GetFuel	2
+../Drivers/VEHICLE/vehicle.c:40:10:Vehicle_GetRPM	1

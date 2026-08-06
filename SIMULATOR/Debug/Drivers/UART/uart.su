@@ -1,0 +1,7 @@
+../Drivers/UART/uart.c:169:23:UART_GetInstance	16	static
+../Drivers/UART/uart.c:177:15:UART_Init	56	static
+../Drivers/UART/uart.c:257:15:UART_SendChar	24	static
+../Drivers/UART/uart.c:268:15:UART_SendString	16	static
+../Drivers/UART/uart.c:278:9:UART_ReadChar	24	static
+../Drivers/UART/uart.c:287:9:UART_DataAvailable	24	static
+../Drivers/UART/uart.c:297:15:UART_ReadString	24	static

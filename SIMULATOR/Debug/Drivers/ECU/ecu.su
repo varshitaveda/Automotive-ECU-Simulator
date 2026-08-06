@@ -1,0 +1,2 @@
+../Drivers/ECU/ecu.c:24:13:ECU_GetFaultStatus	16	static
+../Drivers/ECU/ecu.c:29:6:ECU_CheckFaults	4	static

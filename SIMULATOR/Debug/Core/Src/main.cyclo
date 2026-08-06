@@ -1,0 +1,13 @@
+../Core/Src/main.c:129:10:ADC_ReadChannel	1
+../Core/Src/main.c:155:5:main	1
+../Core/Src/main.c:267:6:SystemClock_Config	3
+../Core/Src/main.c:314:13:MX_ADC1_Init	3
+../Core/Src/main.c:366:13:MX_I2C1_Init	2
+../Core/Src/main.c:400:13:MX_GPIO_Init	1
+../Core/Src/main.c:428:6:StartIgnitionTask	3
+../Core/Src/main.c:480:6:StartEcuTask	2
+../Core/Src/main.c:503:6:StartSensorTask	2
+../Core/Src/main.c:549:6:StartDisplayTask	3
+../Core/Src/main.c:581:6:StartLedTask	3
+../Core/Src/main.c:616:6:StartUartTask	20
+../Core/Src/main.c:751:6:Error_Handler	1

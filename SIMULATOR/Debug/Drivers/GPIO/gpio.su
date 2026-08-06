@@ -1,0 +1,5 @@
+../Drivers/GPIO/gpio.c:19:6:GPIO_EnableClock	16	static
+../Drivers/GPIO/gpio.c:38:6:GPIO_Init	32	static
+../Drivers/GPIO/gpio.c:93:6:GPIO_WritePin	24	static
+../Drivers/GPIO/gpio.c:119:17:GPIO_ReadPin	24	static
+../Drivers/GPIO/gpio.c:145:6:GPIO_TogglePin	24	static

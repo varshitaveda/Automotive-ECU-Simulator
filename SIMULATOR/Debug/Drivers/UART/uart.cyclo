@@ -1,0 +1,7 @@
+../Drivers/UART/uart.c:169:23:UART_GetInstance	2
+../Drivers/UART/uart.c:177:15:UART_Init	2
+../Drivers/UART/uart.c:257:15:UART_SendChar	2
+../Drivers/UART/uart.c:268:15:UART_SendString	2
+../Drivers/UART/uart.c:278:9:UART_ReadChar	2
+../Drivers/UART/uart.c:287:9:UART_DataAvailable	2
+../Drivers/UART/uart.c:297:15:UART_ReadString	3
